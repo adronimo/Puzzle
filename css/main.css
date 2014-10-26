@@ -1,0 +1,20 @@
+body
+{
+	background: #222;
+	color:#EEE;
+	font-size: 2em;
+}
+footer
+{
+	background: #111;
+	margin: 0;
+	padding: 1.5em 0;
+	width: 100%;
+}
+header
+{
+	background: #111;
+	margin: 0;
+	padding: 1.5em 0;
+	width: 100%;  
+}
